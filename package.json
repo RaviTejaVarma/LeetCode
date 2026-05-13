@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-ts",
+  "version": "1.0.0",
+  "description": "LeetCode solutions in TypeScript",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:file": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "vitest": "^4.1.6"
+  }
+}
